@@ -9,5 +9,5 @@ Currently working as a Frontend Developer at Claro Brasil.
   - play some music 🎶
   - like to read 📚
   - use Neovim (btw) ⌨️
-  - share knowledge on my blog and LinkedIn ✍🏻
-  - am a Frontend dev who likes low-level programming and a blured bg for the terminal. ⬇️
+  - share knowledge on my [blog](link) and [LinkedIn](link)  ✍🏻
+  - am a frontend dev who likes low-level stuff and blurred terminal backgrounds. ⬇️
