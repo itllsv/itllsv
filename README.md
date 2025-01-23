@@ -4,7 +4,7 @@ Currently working as a Frontend Developer at Claro Brasil.
 
 ### I:
   - am the father of a beautiful girl ❤️
-  - have a wonderful wife (btw) 👰🏻‍♀️
+  - have a wonderful wife 👰🏻‍♀️
   - drink chimarrão 🧉
   - play some music 🎶
   - like to read 📚
