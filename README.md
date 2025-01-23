@@ -1,16 +1,13 @@
-## Hi there 👋
+## itllsv
 
-<!--
-**itllsv/itllsv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Just a guy who ❤️ reinventing the wheel to learn new stuff and automating my dev workflow. Currently working as a Frontend Developer at Claro Brasil.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### I:
+  - am the father of a beautiful girl
+  - have a wonderful wife (btw)
+  - enjoy chimarrão
+  - play some music
+  - like to read
+  - use Neovim (btw)
+  - share knowledge on my blog and LinkedIn
+  - am a Frontend dev who likes low-level programming and a black bg for the terminal.
