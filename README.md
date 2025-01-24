@@ -1,6 +1,6 @@
 Just a guy who love reinventing the wheel to learn new stuff and automating my dev workflow. 
 
-Currently working as a Frontend Developer at Claro Brasil.
+Currently working as a Front-End Developer at Claro Brasil.
 
 ### I:
   - am the father of a beautiful girl ❤️
