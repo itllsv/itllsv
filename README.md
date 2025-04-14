@@ -8,7 +8,6 @@ Currently working as a Front-End Developer at Claro Brasil.
   - drink chimarrão 🧉
   - play some music 🎶
   - like to read 📚
-  - use Neovim (btw) ⌨️
+  - use Neovim ⌨️
   - share knowledge on my [Blog](https://www.itallo.tech/blog) and [LinkedIn](https://www.linkedin.com/in/itallosavieira/)  ✍🏻
-  - ❤ blurred terminal backgrounds. ⬇️
   - make beautiful screens with React, Next, Vue... 🖵
