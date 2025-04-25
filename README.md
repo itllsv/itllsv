@@ -1,4 +1,5 @@
 Just a guy who likes learn new things.
+
 I'm currently working as the Lead Front-End Developer of the financial team at Claro Brasil.
 
 #### I:
