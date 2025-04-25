@@ -11,4 +11,5 @@ I'm currently working as the Lead Front-End Developer of the financial team at C
   - am currently diving into backend development 🧠
 
 [itallo.tech](https://www.itallo.tech/blog)
+
 [LinkedIn](https://www.linkedin.com/in/itallosavieira/)
