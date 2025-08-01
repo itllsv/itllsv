@@ -1,11 +1,11 @@
-Just a guy who likes learn new things.
+Just a guy who likes to learn new things.
 
-I'm currently working as the Lead Front-End Developer of the financial team at Claro Brasil.
+Currently working as the Lead Front-End Developer for the financial team at Claro Brasil.
 
-#### I:
-  - am the proud father of a beautiful girl ❤️
-  - have an amazing wife 👰🏻‍♀️
-  - play some music 🎶
-  - use Vim, btw ⌨️
-  - build amazing UIs with React, Next.js, and Vue 🖵
-  - am currently diving into backend development 🧠
+#### About me:
+  - Father of a beautiful girl
+  - Married to an amazing wife
+  - Plays some music
+  - Uses Vim and Arch, btw
+  - Builds amazing UIs with React, Next.js, Vue (etc.)
+  - Diving into programming fundamentals to see what’s under the hood
