@@ -5,4 +5,6 @@ Front-End Developer at Claro <br>
 - Daily stack: React, Next.js, Vue
 - Vim btw | Arch btw
 
-Learning what's under the hood
+Free time: 
+Learn what's under the hood <br>
+...and messing with my .config
