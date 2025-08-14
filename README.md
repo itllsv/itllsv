@@ -1,4 +1,5 @@
-Dotfiles Engineer and Front-End Developer at Claro
+Front-End Developer at Claro 
+...and Dotfiles Engineer
 
 - Father | Husband | Frustrated Musician
 - Daily stack: React, Next.js, Vue
