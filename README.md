@@ -1,4 +1,4 @@
-Front-End Developer at Claro \n
+Front-End Developer at Claro <br>
 ...and Dotfiles Engineer
 
 - Father | Husband | Frustrated Musician
