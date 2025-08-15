@@ -12,5 +12,8 @@ Learn what's under the hood <br>
 ---
 
 ```bash
-curl -s https://itallo.rocks
-echo "mailto:sudo@itallo.rocks"
+https://itallo.rocks
+```
+```bash
+sudo@itallo.rocks
+```
