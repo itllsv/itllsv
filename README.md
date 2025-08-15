@@ -1,5 +1,5 @@
 Front-End Developer at Claro <br>
-...and Dotfiles Engineer
+*...and Dotfiles Engineer*
 
 <br>
 
@@ -12,7 +12,6 @@ Front-End Developer at Claro <br>
 All the time: *Messing with my .config*
 
 <br>
-Contact: <br>
 
 [https://itallo.rocks](https://itallo.rocks) | *404: modesty not found* <br>
 [sudo@itallo.rocks](mailto:sudo@itallo.rocks) | *be root, my friend*
