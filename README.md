@@ -8,3 +8,9 @@ Front-End Developer at Claro <br>
 Free time: 
 Learn what's under the hood <br>
 ...and messing with my .config
+
+---
+
+```bash
+curl -s https://itallo.rocks
+echo "mailto:sudo@itallo.rocks"
