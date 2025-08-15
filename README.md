@@ -5,16 +5,16 @@ Front-End Developer at Claro <br>
 
 - Father | Husband | Frustrated Musician
 - Stack: whatever you pay me for
-- Vim btw | Arch btw
+- Vim btw | Arch btw | *I threw my mouse away*
 
 <br>
 
-Free time: 
+Free time: <br>
 Learn what's under the hood <br>
 ...and messing with my .config
 
 <br>
+Contact: <br>
 
-[https://itallo.rocks](https://itallo.rocks) | *404: modesty not found*  
+[https://itallo.rocks](https://itallo.rocks) | *404: modesty not found* <br>
 [sudo@itallo.rocks](mailto:sudo@itallo.rocks) | *be root, my friend*
-
