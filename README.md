@@ -9,9 +9,7 @@ Free time:
 Learn what's under the hood <br>
 ...and messing with my .config
 
-```bash
-https://itallo.rocks
-```
-```bash
-sudo@itallo.rocks
-```
+<br><br>
+
+[itallo.rocks](https://itallo.rocks) || [sudo@itallo.rocks](mailto:sudo@itallo.rocks)
+
