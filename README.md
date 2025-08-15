@@ -9,8 +9,6 @@ Free time:
 Learn what's under the hood <br>
 ...and messing with my .config
 
----
-
 ```bash
 https://itallo.rocks
 ```
