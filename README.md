@@ -11,5 +11,5 @@ Learn what's under the hood <br>
 
 <br><br>
 
-[itallo.rocks](https://itallo.rocks) || [sudo@itallo.rocks](mailto:sudo@itallo.rocks)
+[https://itallo.rocks](https://itallo.rocks) || [sudo@itallo.rocks](mailto:sudo@itallo.rocks)
 
