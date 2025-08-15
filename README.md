@@ -9,9 +9,7 @@ Front-End Developer at Claro <br>
 
 <br>
 
-Free time: <br>
-Learn what's under the hood <br>
-...and messing with my .config
+All the time: *Messing with my .config*
 
 <br>
 Contact: <br>
