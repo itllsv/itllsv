@@ -9,9 +9,5 @@ Front-End Developer at Claro <br>
 
 <br>
 
-All the time: *Messing with my .config*
-
-<br>
-
 [https://itallo.rocks](https://itallo.rocks) | *404: modesty not found* <br>
 [sudo@itallo.rocks](mailto:sudo@itallo.rocks) | *be root, my friend*
