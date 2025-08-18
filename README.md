@@ -10,4 +10,4 @@ Front-End Developer at Claro <br>
 <br>
 
 [https://itallo.rocks](https://itallo.rocks) | *404: modesty not found* <br>
-[sudo@itallo.rocks](mailto:sudo@itallo.rocks) | *be root, my friend*
+[sudo@itallo.rocks](mailto:sudo@itallo.rocks) | *email me to be root, my friend*
