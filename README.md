@@ -4,5 +4,5 @@ Front-End Developer at Claro <br>
 <br>
 
 - Father | Husband | Frustrated Musician
-- Vim btw | Arch btw | 
+- Vim and Arch btw 
 - I threw my mouse away
