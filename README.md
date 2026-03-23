@@ -1,4 +1,5 @@
-**Fullstack Developer at Claro** | Father | Husband | Frustrated Musician
+### **Fullstack Developer at Claro** | Father | Husband | Frustrated Musician
+<br/>
 
 ```lua
 -- No mouse allowed, just vibes and prompts.
