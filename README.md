@@ -1,8 +1,4 @@
-# ITALLO
-
-> **Fullstack Developer at Claro** | Father | Husband | Frustrated Musician
-
----
+**Fullstack Developer at Claro** | Father | Husband | Frustrated Musician
 
 ```viml
 " No mouse allowed, just vibes and prompts.
